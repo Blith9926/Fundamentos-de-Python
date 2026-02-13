@@ -11,7 +11,7 @@ Este espacio funciona como contenedor principal para todos los recursos académi
 * **Curso:** Fundamentos de Python (2026-C1)
 * **Grupo:** G01
 * **Profesor:** Andrés Mena Abarca
-
+### Juan Pablo Agüero Naranjo
 ---
 
 ## 🎯 Objetivos del Repositorio
