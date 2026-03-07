@@ -29,7 +29,9 @@ if "Leer un libro" in tareas:
     print("Si está")
 else:
     print("No está")
-
+print(tareas)
 # 8. SLICE: Imprime solo las primeras 2 tareas de la lista final.*
+print(tareas[:2])
+
 
 print(tareas)
